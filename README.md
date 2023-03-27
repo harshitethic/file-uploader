@@ -9,7 +9,7 @@ This is a simple file uploader script created using PHP and AJAX. The script all
 ## Setup
 
 1. Create a folder named "uploads" in the same directory as the PHP script. This folder will be used to store the uploaded files.
-2. Clone the repository using the following command: `git clone https://github.com/harshitethic/file-uploader`
+2. Clone the repository using the following command: `git clone https://github.com/your-username/your-repository-name.git`
 3. Run the script on your local server or hosting provider with PHP support.
 
 ## Features
@@ -19,3 +19,13 @@ This is a simple file uploader script created using PHP and AJAX. The script all
 - Progress bar to display the upload progress.
 - Success pop-up message after the file is uploaded successfully.
 - Header and footer with a similar design to Twitter's header and footer.
+
+## Login System
+
+To protect the file uploader from unauthorized access, I've implemented a basic login system. The default credentials are as follows:
+
+| Username | Password |
+|----------|----------|
+| admin    | harshitethic |
+
+You can change these credentials within the PHP script as needed.
